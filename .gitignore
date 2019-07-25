@@ -1,0 +1,6 @@
+# ignore all files and folder 
+chromedriver_win32
+geckodriver-v0.24.0-win64
+Selenium with Java
+selenium-java-3.141.59
+TestNG jar
